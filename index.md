@@ -2,7 +2,7 @@
 
 # omarbv(blog)
 
-Posts about hacking, cybersecurity and data privacy
+**Hacking, cybersecurity and data privacy**
 
 
 ---
