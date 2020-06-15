@@ -1,1 +1,10 @@
 theme: jekyll-theme-minimal
+logo:  face.png
+twitter_username: omarbv
+description: "omarbv(blog)"
+baseurl: ""
+url: https://omarbv.github.io/
+title_image: https://omarbv.github.io/face.png
+twitter:
+  username: omarbv
+  card: "summary"
