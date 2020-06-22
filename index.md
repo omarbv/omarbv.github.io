@@ -7,6 +7,13 @@
 
 ---
 
+## [Secrets on Github, a plage](_posts/2020-06-22-secrets-on-github-2020.md)
+Jan 15 2020 - English
+
+Software Engineers are humans. Humans make mistakes, and anything that can go wrong, will eventually go wrong. There is a known and big issue in Git and SVN platforms where developers push their code, sharing sometimes more than they should... [(continue)](_posts/2020-06-22-secrets-on-github-2020.md)
+
+---
+
 ## [CyberSecurity Trends in 2020](_posts/2020-01-15-trends-2020.md)
 Jan 15 2020 - English
 
